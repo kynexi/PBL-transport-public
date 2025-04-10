@@ -1,9 +1,13 @@
-First: run git clone https://github.com/kynexi/PBL-transport-public.git in the desired directory
+First: run
+`git clone https://github.com/kynexi/PBL-transport-public.git`
+in the desired directory
 then, in the terminal run
 
+```python
 python3 -m venv .venv (or just python instead of python3)
 .venv\Scripts\activate
 pip install -r requirements.txt
+```
 
 To contribute:
 
