@@ -1,4 +1,4 @@
-First: run
+Run
 
 `git clone https://github.com/kynexi/PBL-transport-public.git`
 
@@ -18,6 +18,6 @@ To contribute:
 
 create new files ending in .py
 
-create functions in these new files, then import then main.py using:
+create functions in these new files, then import in main.py using:
 
 from [name].py import [function-name]
